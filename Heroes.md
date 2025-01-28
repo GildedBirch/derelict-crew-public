@@ -1,6 +1,7 @@
-- Per match upgrades
-- Kills unlock new heroes
-- Prestige for heroes
+# Crew members
+
+Playable characters are divided into 5 categories based on their abilities.
+
 ## **Assault**
 
 > Assault members specialize in dealing constant damage.
