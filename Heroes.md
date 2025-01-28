@@ -15,6 +15,8 @@ Playable characters are divided into 5 categories based on their abilities.
 - **(Ability 1)** Bayonet Swipe
 	- Swipe energy bayonet in front for area damage
 - **(Ability 2)** Chain bayonet grappling hook
+	- Pull yourself to position
+ 	- You are invulnerable while grappling
 
 ## **Tank**
 
