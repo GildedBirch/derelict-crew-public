@@ -16,7 +16,6 @@ Playable characters are divided into 5 categories based on their abilities.
 	- Swipe energy bayonet in front for area damage
 - **(Ability 2)** Chain bayonet grappling hook
 
-___
 ## **Tank**
 
 > Tank members are sturdier and others.
@@ -43,7 +42,6 @@ ___
 	- Increases damage dealt when you take damage
 	- Lose stacks if not damaged
 
-___
 ## **Support**
 
 > Support members specialize in helping other members.
@@ -59,7 +57,6 @@ ___
 - **(Ability 2)** Brilliant Flash
 	- Shine light from prism providing yourself and nearby allies attack and speed boost
 
-___
 ## **Assassin**
 
 > Assassin members specialize in dealing high damage to single targets.
@@ -74,7 +71,6 @@ ___
 	- Put 2 ritual circles on ground
 	- Travel between the circles by interacting with them
 
-___
 ## **Engineer**
 
 > Engineer members build turrets and other contraptions to deal with the enemy.
@@ -91,5 +87,3 @@ ___
 - **(Ability 2)** Deploy harvester
 	- Put down harvester next to a resource
 	- Will work limited time
-
-___
